@@ -30,12 +30,12 @@ S: Move the left paddle down
 
 4. 🎯 The goal is to bounce the ball back and forth, scoring points each time the opponent misses.
 
-##📸 Screenshot
+## 📸 Screenshot
 ![Gameplay Screenshot](__pycache__/pic.png)
 
-##⚙️ Requirements
+## ⚙️ Requirements
 Python 3.8 or higher
-No additional libraries are required. Just download, run, and enjoy! 🎉
+No additional libraries are required.
 
 
 Have fun and enjoy the game! 🏓
